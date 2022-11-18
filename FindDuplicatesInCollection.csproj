@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Bogus.Healthcare" Version="34.0.2" />
+    </ItemGroup>
+
 </Project>
